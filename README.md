@@ -37,7 +37,7 @@ With 6 months of professional experience, I have hands-on expertise in frontend,
 ---
 
 ## Technologies & Tools
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/182086a2-aa31-4455-b541-cde9e9b1b9a7" />
+<img width="90" height="30" alt="image" src="https://github.com/user-attachments/assets/182086a2-aa31-4455-b541-cde9e9b1b9a7" />
 <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/0a0536ba-1806-4d09-8d44-b49e72923987" />
 <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/1919b5bc-04d1-461f-b883-0f67884aa934" />
 <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/27c35b0d-7294-4ec5-949e-17d1972f1dfe" />
