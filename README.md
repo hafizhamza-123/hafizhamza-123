@@ -37,6 +37,8 @@ With 6 months of professional experience, I have hands-on expertise in frontend,
 ---
 
 ## Technologies & Tools
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/cc7a09b7-cfb7-420a-ba28-d59bb16695e1" />
+
 HTML5 CSS3 JavaScript React Node.js Express.js MongoDB Python Pandas NumPy Matplotlib OpenAI Gemini n8n Git GitHub VS Code Postman 
 
 ---
