@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=M%20Hamza&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Generative%20AI&descAlignY=58&descColor=c8d8f8" width="100%" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
+
+</div>
+
+
 # Muhammad Hamza Baig
 Full Stack Developer (MERN) | Scalable Backend & AI Integration Enthusiast
 
