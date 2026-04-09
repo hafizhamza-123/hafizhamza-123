@@ -40,16 +40,15 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-4F46E5?style=flat-square&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F6FEB?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI & Automation**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Tools**
@@ -72,15 +71,6 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 | 🔗 [zerolifestyle-frontend](https://github.com/hafizhamza-123/zerolifestyle-frontend)   | Frontend clone UI of Zero Lifestyle                                     | React · JavaScript                   |
 | 🔗 [Ai-Page-Builder](https://github.com/hafizhamza-123/Ai-Page-Builder)                 | AI‑powered page generation tool                                         | TypeScript · AI Integration          |
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![M Hamza Baig GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizhamza-123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhamza-123&layout=compact&theme=radical)
-
-</div>
 
 ---
 
