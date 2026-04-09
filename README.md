@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB,06B6D4&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Generative%20AI&descAlignY=58&descColor=c8d8f8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
+[![Email](https://img.shields.io/badge/Email-F94144?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ## 👋 Hey, I'm M Hamza Baig
 
-I'm a **Full Stack Developer** with 1 year of professional experience specializing in **MERN stack**, scalable backend architectures, and AI integration. I create clean, maintainable code and real-world applications.
+I'm a **Full Stack Developer** with **1 year of professional experience**, specializing in **MERN stack** development and **AI integrations**. I focus on building **scalable, secure, and high-performance web applications**.
 
-- 🔭 Currently building production-grade web applications  
-- 🤖 Exploring AI & automation integration  
-- 🌱 Deepening expertise in **React, Node.js, TypeScript, MongoDB**  
+- 🔭 Currently building production-grade full-stack applications  
+- 🤖 Exploring AI integration & automation pipelines  
+- 🌱 Deepening expertise in **TypeScript**, **Node.js**, and scalable backend architectures  
 - 💼 Open to **remote full-stack roles** and freelance projects  
 - 📧 Reach me at **mhamzabaig.dev@gmail.com**
 
@@ -63,14 +63,11 @@ I'm a **Full Stack Developer** with 1 year of professional experience specializi
 
 ## 🚀 Featured Projects
 
-> Add your projects below  
-
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔹 [Project 1](#) | Short description | MERN |
-| 🔹 [Project 2](#) | Short description | Next.js |
-| 🔹 [Project 3](#) | Short description | Python |
-| 🔹 [Project 4](#) | Short description | AI / ML |
+| 🔗 [Project 1](#) | Add project description here | MERN |
+| 🔗 [Project 2](#) | Add project description here | Next.js · Tailwind CSS |
+| 🔗 [Project 3](#) | Add project description here | React · Node.js |
 
 ---
 
@@ -78,8 +75,9 @@ I'm a **Full Stack Developer** with 1 year of professional experience specializi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizhamza-123&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhamza-123&layout=compact&theme=radical&hide_border=true" height="165"/>
+![M Hamza Baig GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzabaig&show_icons=true&theme=radical&hide_border=false)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzabaig&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
@@ -87,11 +85,10 @@ I'm a **Full Stack Developer** with 1 year of professional experience specializi
 
 ## 🤝 Let's Work Together
 
-Available for **full-time remote roles**, **freelance projects**, and **AI integration work**  
+I'm available for **full-time remote roles**, **freelance projects**, and **AI integration work**.
 
-[![LinkedIn](https://img.shields.io/badge/M%20Hamza%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-baig-987080318/)
+**[📧 mhamzabaig.dev@gmail.com](mailto:mhamzabaig.dev@gmail.com)** · **[🌐 Portfolio](https://hamza-dev-portfolio-delta.vercel.app/)** · **📍 Pakistan**
 
 <div align="center">
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB,06B6D4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=100&section=footer&text=Let's%20Connect%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&fontAlignY=38" width="100%" />
 </div>
