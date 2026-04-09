@@ -5,7 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-F94144?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
 
 </div>
----
 
 ## 👋 Hey, I'm M Hamza Baig
 
@@ -63,8 +62,6 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 | 🔗 [ChatApp](https://github.com/hafizhamza-123/ChatApp)                                 | Real‑time chat application with messaging features                      | JavaScript · Node.js                 |
 | 🔗 [zerolifestyle-backend](https://github.com/hafizhamza-123/zerolifestyle-backend)     | Backend for Zero Lifestyle clone                                        | Node.js · Express · Prisma · MongoDB |
 | 🔗 [zerolifestyle-frontend](https://github.com/hafizhamza-123/zerolifestyle-frontend)   | Frontend clone UI of Zero Lifestyle                                     | React · JavaScript                   |
-| 🔗 [Ai-Page-Builder](https://github.com/hafizhamza-123/Ai-Page-Builder)                 | AI‑powered page generation tool                                         | TypeScript · AI Integration          |
-
 
 ---
 
