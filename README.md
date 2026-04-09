@@ -55,14 +55,16 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 
 ## 🚀 Featured Projects
 
-| Project                                                                                 | Description                                                             | Stack                                |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
-| 🔗 [aj_elec_backend](https://github.com/hafizhamza-123/aj_elec_backend)                 | Backend server for AJ Electronics — handles APIs, auth, data processing | Node.js · Express · MongoDB          |
-| 🔗 [aj_electronics_frontend](https://github.com/hafizhamza-123/aj_electronics_frontend) | Frontend UI for AJ Electronics showcase/store                           | React · Tailwind CSS                 |
-| 🔗 [ChatApp](https://github.com/hafizhamza-123/ChatApp)                                 | Real‑time chat application with messaging features                      | JavaScript · Node.js                 |
-| 🔗 [zerolifestyle-backend](https://github.com/hafizhamza-123/zerolifestyle-backend)     | Backend for Zero Lifestyle clone                                        | Node.js · Express · Prisma · MongoDB |
-| 🔗 [zerolifestyle-frontend](https://github.com/hafizhamza-123/zerolifestyle-frontend)   | Frontend clone UI of Zero Lifestyle                                     | React · JavaScript                   |
+## 🚀 Featured Projects
 
+| Project                                                                                         | Description                                                             | Stack                                |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
+| 🔗 [Hamza.dev Portfolio](https://github.com/hafizhamza-123/Hamza.dev.Portfolio)               | Personal developer portfolio showcasing projects and skills             | React · Next.js · Tailwind CSS      |
+| 🔗 [aj_elec_backend](https://github.com/hafizhamza-123/aj_elec_backend)                       | Backend server for AJ Electronics — handles APIs, auth, data processing | Node.js · Express · MongoDB          |
+| 🔗 [aj_electronics_frontend](https://github.com/hafizhamza-123/aj_electronics_frontend)       | Frontend UI for AJ Electronics showcase/store                           | React · Tailwind CSS                 |
+| 🔗 [ChatApp](https://github.com/hafizhamza-123/ChatApp)                                       | Real-time chat application with messaging features                      | JavaScript · Node.js                 |
+| 🔗 [zerolifestyle-backend](https://github.com/hafizhamza-123/zerolifestyle-backend)           | Backend for Zero Lifestyle clone                                        | Node.js · Express · Prisma · MongoDB |
+| 🔗 [zerolifestyle-frontend](https://github.com/hafizhamza-123/zerolifestyle-frontend)         | Frontend clone UI of Zero Lifestyle                                     | React · JavaScript                   |
 ---
 
 ## 🤝 Let's Work Together
