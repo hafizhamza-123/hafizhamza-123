@@ -1,14 +1,6 @@
 <div align="center">
 
-<!-- Premium Gradient Background -->
-<img src="https://svgshare.com/i/14kA.svg" width="100%" />
-
-<!-- Overlay Content -->
-<br/>
-
-# 👨‍💻 M Hamza Baig
-
-### Full Stack Developer | MERN | Next.js | AI Integration
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
 
 <br/>
 
