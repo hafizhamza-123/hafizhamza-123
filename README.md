@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=M%20Hamza&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Generative%20AI&descAlignY=58&descColor=c8d8f8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=M%20Hamza%20Baig&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Generative%20AI&descAlignY=60&descColor=d1e8ff&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
+[![Email](https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Muhammad Hamza Baig  
+## 👋 M Hamza Baig  
 💻 Full Stack Developer (MERN) | ⚙️ Scalable Backend & 🤖 AI Integration Enthusiast  
 
 ---
 
 ## 🧑‍💼 Professional Summary
 
-- 🧠 6 months of hands-on experience in full-stack web development  
+- 🧠 1 year of hands-on experience in full-stack web development  
 - ⚛️ Strong expertise in **React, Node.js, Express, and MongoDB**  
 - 🏗️ Skilled in building scalable backend architectures  
 - 🗄️ Experienced in designing efficient database schemas and optimizing queries  
@@ -91,10 +91,10 @@
 
 I am open to **full-time roles**, **freelance projects**, and **collaborations** in web development and AI-integrated solutions.  
 
-[![LinkedIn](https://img.shields.io/badge/Muhammad%20Hamza%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-baig-987080318/)
+[![LinkedIn](https://img.shields.io/badge/M%20Hamza%20Baig-203A43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-baig-987080318/)
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=100&section=footer" width="100%" />
 </div>
