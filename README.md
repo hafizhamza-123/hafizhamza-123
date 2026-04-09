@@ -78,8 +78,8 @@ I'm a **Full Stack Developer** with 1 year of professional experience specializi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-hamza-baig&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamza-baig&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizhamza-123&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhamza-123&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
