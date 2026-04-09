@@ -55,7 +55,6 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
 
 | Project                                                                                         | Description                                                             | Stack                                |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
