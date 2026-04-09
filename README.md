@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- Hero Section with Local Image -->
+<!-- Hero Section with Profile over Background -->
 <table>
 <tr>
-<td>
-  <img src="https://github.com/user-attachments/assets/525b92af-c568-452c-83a1-a3448ecf86b3" width="150" style="border-radius: 50%;" alt="M Hamza Baig"/>
+<td colspan="2">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="800"/>
 </td>
-<td>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="500" />
+</tr>
+<tr>
+<td colspan="2">
+  <img src="https://github.com/user-attachments/assets/525b92af-c568-452c-83a1-a3448ecf86b3" width="150" style="margin-top:-100px;border-radius:50%;" alt="M Hamza Baig"/>
 </td>
 </tr>
 </table>
