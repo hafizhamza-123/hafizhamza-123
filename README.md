@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero Section with Background Color matching profile -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
+<!-- Hero Section (Gradient Upgrade) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58,06B6D4,3B82F6&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
 
 <br/>
 
