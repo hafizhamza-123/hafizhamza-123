@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section (Dark Blue Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A:1E3A8A:2563EB&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
 
 <br/>
 
@@ -80,6 +80,6 @@ I'm available for **full-time remote roles**, **freelance projects**, and **AI i
 <div align="center">
 
 <!-- Footer (Dark Blue Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB:1E3A8A:0B1F3A&height=100&section=footer&text=Let's%20Connect%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=100&section=footer&text=Let's%20Connect%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&fontAlignY=38" width="100%" />
 
 </div>
