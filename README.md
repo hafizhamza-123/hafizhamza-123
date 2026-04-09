@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Integration%20%7C%20Computer%20Vision&descAlignY=58&descColor=c8d8f8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=M%20Hamza&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Generative%20AI&descAlignY=58&descColor=c8d8f8" width="100%" />
 
 <br/>
 
@@ -12,63 +12,57 @@
 
 ---
 
-## 👋 Hey, I'm Muhammad Hamza Baig
-
-I'm a **Full Stack Developer** focused on building **scalable MERN applications** and integrating **real-world AI systems** — not just demos.
-
-I specialize in combining **web development + computer vision + backend systems** to create intelligent, production-ready solutions.
-
-- 🔭 Currently working on **AI-powered Smart Surveillance Systems**
-- 🤖 Built **Smart Boundary Guard** (Real-time human detection + mobile alerts)
-- 🧠 Exploring **Computer Vision (YOLOv8), AI integrations & automation**
-- 🌱 Improving expertise in **System Design & Scalable Architectures**
-- 💼 Open to **remote roles, internships & freelance projects**
-- 📧 Reach me at **mhamzabaig.dev@gmail.com**
+## 👋 Muhammad Hamza Baig  
+💻 Full Stack Developer (MERN) | ⚙️ Scalable Backend & 🤖 AI Integration Enthusiast  
 
 ---
 
-## 🚀 Featured Project
+## 🧑‍💼 Professional Summary
 
-### 🛡️ Smart Boundary Guard
-> AI-powered smart home security system using **YOLOv8 + Mobile App + Real-time Alerts**
-
-- 🎯 Detects humans entering custom-drawn boundaries (polygon, circle, rectangle)
-- 📱 Integrated with **React Native app** for real-time monitoring
-- 🔔 Push notifications using **Supabase + Expo**
-- 🧠 Uses **segmentation-based detection (not just bounding boxes)** for accuracy
-- ⚡ FastAPI backend with real-time communication
-
-**Tech Used:** Python · YOLOv8 · FastAPI · React Native · Supabase · OpenCV
+- 🧠 6 months of hands-on experience in full-stack web development  
+- ⚛️ Strong expertise in **React, Node.js, Express, and MongoDB**  
+- 🏗️ Skilled in building scalable backend architectures  
+- 🗄️ Experienced in designing efficient database schemas and optimizing queries  
+- 🧹 Solid foundation in clean coding practices and collaborative workflows  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🎨 Frontend Engineering
+- Building responsive, accessible, and user-centric interfaces using **React.js** and modern **JavaScript (ES6+)**  
+- Utilizing component libraries and modular architecture for maintainable UI  
+
+### ⚙️ Backend & API Development
+- Designing secure and scalable RESTful APIs with **Node.js** and **Express.js**  
+- Implementing authentication, role-based access control, and robust error handling  
+
+### 🗃️ Database Design & Optimization
+- Modeling **MongoDB** databases for performance, reliability, and scalability  
+- Optimizing queries and ensuring efficient data retrieval  
+
+### 🤝 Collaboration & Code Quality
+- Git-based version control and GitHub workflows  
+- Writing clean, maintainable code suitable for team environments  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Core Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend & Database
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🤖 AI / Computer Vision
+### ⚡ Additional Technologies
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-### 📱 Mobile & Realtime
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### 🧰 Tools & Workflow
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -85,27 +79,19 @@ I specialize in combining **web development + computer vision + backend systems*
 
 ---
 
-## 🎯 What I Bring
+## 🎯 Professional Interests
 
-- 🚀 End-to-end **Full Stack Development (MERN)**
-- 🧠 Real-world **AI + Computer Vision Integration**
-- ⚡ Scalable backend systems with **FastAPI & Node.js**
-- 📱 Mobile + Web system integration
-- 🧩 Problem-solving mindset with focus on **real-world impact**
+- 🏗️ Scalable Backend Architectures  
+- 🌐 MERN Stack Web Development  
+- 🤖 AI Integration & Intelligent Systems  
 
 ---
 
-## 🤝 Let's Work Together
+## 📬 Contact & Opportunities
 
-I'm actively looking for:
+I am open to **full-time roles**, **freelance projects**, and **collaborations** in web development and AI-integrated solutions.  
 
-- 💼 **Internships / Junior Full Stack Roles**
-- 🌍 **Remote Opportunities**
-- 🧠 **AI-based Projects & Collaborations**
-
-📧 **mhamzabaig.dev@gmail.com**  
-🌐 **Portfolio:** https://hamza-dev-portfolio-delta.vercel.app/  
-📍 Pakistan  
+[![LinkedIn](https://img.shields.io/badge/Muhammad%20Hamza%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-baig-987080318/)
 
 ---
 
