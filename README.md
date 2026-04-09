@@ -63,21 +63,22 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [Project 1](#) | Add project description here | MERN |
-| 🔗 [Project 2](#) | Add project description here | Next.js · Tailwind CSS |
-| 🔗 [Project 3](#) | Add project description here | React · Node.js |
+| Project                                                                                 | Description                                                             | Stack                                |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
+| 🔗 [aj_elec_backend](https://github.com/hafizhamza-123/aj_elec_backend)                 | Backend server for AJ Electronics — handles APIs, auth, data processing | Node.js · Express · MongoDB          |
+| 🔗 [aj_electronics_frontend](https://github.com/hafizhamza-123/aj_electronics_frontend) | Frontend UI for AJ Electronics showcase/store                           | React · Tailwind CSS                 |
+| 🔗 [ChatApp](https://github.com/hafizhamza-123/ChatApp)                                 | Real‑time chat application with messaging features                      | JavaScript · Node.js                 |
+| 🔗 [zerolifestyle-backend](https://github.com/hafizhamza-123/zerolifestyle-backend)     | Backend for Zero Lifestyle clone                                        | Node.js · Express · Prisma · MongoDB |
+| 🔗 [zerolifestyle-frontend](https://github.com/hafizhamza-123/zerolifestyle-frontend)   | Frontend clone UI of Zero Lifestyle                                     | React · JavaScript                   |
+| 🔗 [Ai-Page-Builder](https://github.com/hafizhamza-123/Ai-Page-Builder)                 | AI‑powered page generation tool                                         | TypeScript · AI Integration          |
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![M Hamza Baig GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzabaig&show_icons=true&theme=radical&hide_border=false)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzabaig&layout=compact&theme=radical&hide_border=false)
+![M Hamza Baig GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizhamza-123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhamza-123&layout=compact&theme=radical)
 
 </div>
 
