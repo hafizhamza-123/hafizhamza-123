@@ -1,8 +1,13 @@
-<div align="center"> <!-- Hero Section with Background Color matching profile --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" /> <br/>
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
-[![Email](https://img.shields.io/badge/Email-F94144?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
+<!-- Hero Section (Dark Blue Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A,1E3A8A,2563EB&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
 
 </div>
 
@@ -55,7 +60,6 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 
 ## 🚀 Featured Projects
 
-
 | Project                                                                                         | Description                                                             | Stack                                |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
 | 🔗 [Hamza.dev Portfolio](https://github.com/hafizhamza-123/Hamza.dev.Portfolio)               | Personal developer portfolio showcasing projects and skills             | React · Next.js · Tailwind CSS      |
@@ -64,6 +68,7 @@ I'm a **Full Stack Developer** with **1 year of professional experience**, speci
 | 🔗 [ChatApp](https://github.com/hafizhamza-123/ChatApp)                                       | Real-time chat application with messaging features                      | JavaScript · Node.js                 |
 | 🔗 [zerolifestyle-backend](https://github.com/hafizhamza-123/zerolifestyle-backend)           | Backend for Zero Lifestyle clone                                        | Node.js · Express · Prisma · MongoDB |
 | 🔗 [zerolifestyle-frontend](https://github.com/hafizhamza-123/zerolifestyle-frontend)         | Frontend clone UI of Zero Lifestyle                                     | React · JavaScript                   |
+
 ---
 
 ## 🤝 Let's Work Together
@@ -73,5 +78,8 @@ I'm available for **full-time remote roles**, **freelance projects**, and **AI i
 **[📧 mhamzabaig.dev@gmail.com](mailto:mhamzabaig.dev@gmail.com)** · **[🌐 Portfolio](https://hamza-dev-portfolio-delta.vercel.app/)** · **📍 Pakistan**
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=100&section=footer&text=Let's%20Connect%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&fontAlignY=38" width="100%" />
+
+<!-- Footer (Dark Blue Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,1E3A8A,0B1F3A&height=100&section=footer&text=Let's%20Connect%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&fontAlignY=38" width="100%" />
+
 </div>
