@@ -1,15 +1,4 @@
-<div align="center">
-
-<!-- Hero Section (Gradient Upgrade) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58,06B6D4,3B82F6&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/)
-[![Email](https://img.shields.io/badge/Email-F94144?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com)
-
-</div>
+<div align="center"> <!-- Hero Section with Background Color matching profile --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0F9D58&height=200&section=header&text=M%20Hamza%20Baig&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descColor=d1f0ff" width="100%" /> <br/> [![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-dev-portfolio-delta.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-baig/) [![Email](https://img.shields.io/badge/Email-F94144?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzabaig.dev@gmail.com) </div>
 
 ---
 
